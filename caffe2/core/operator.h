@@ -802,6 +802,7 @@ inline vector<int16_t> OperatorBase::GetRepeatedArgument<int16_t>(
 #endif
 }
 
+// op
 // Operator is the class that you usually want to derive, if your operator will
 // run on different devices. You should then implement the RunOnDevice()
 // function.

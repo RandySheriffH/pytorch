@@ -14,6 +14,7 @@ namespace caffe2 {
 
 class Tensor;
 
+// A blob, mostly, is a tensor containe
 /**
  * @brief Blob is a general container that hosts a typed pointer.
  *
